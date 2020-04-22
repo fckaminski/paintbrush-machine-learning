@@ -1,6 +1,9 @@
 # paintbrush-machine-learning
-Paintbrush-like canvas to hand draw digits to then be fed to machine learning trained models. Includes SVC (support vector classifier) and CNN (Convolutional Neural Networks) models.
+Paintbrush-like canvas to hand draw digits to then be fed into machine learning trained models. Includes SVC (support vector classifier) and CNN (Convolutional Neural Networks) leaning models.
 
+Kaminski - fckaminski66@gmail.com
+
+#Instructions:
 1) digits_recognition_SVC.py: Trains MNIST dataset using sklearn SVC (support vector classifier). 
                               Saves model to file: "digits_recognition.pickle"
 
